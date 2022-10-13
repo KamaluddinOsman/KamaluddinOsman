@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @KamaluddinOsman
+- 👀 I’m interested in PHP (Laravel), and Javascript (Vue, React)
+- 🌱 I’m currently learning Fullter
+- 💞️ I’m looking to collaborate on any Laravel projects
+- 📫 How to reach me kamaluddin.osman@gmail.com
+
+<!---
+KamaluddinOsman/KamaluddinOsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
