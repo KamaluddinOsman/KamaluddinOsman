@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaluddinOsman&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaluddinOsman&hide=contribs,prs,count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @KamaluddinOsman
 - 👀 I’m interested in PHP (Laravel), and Javascript (Vue, React)
