@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaluddinOsman&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KamaluddinOsman)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @KamaluddinOsman
 - 👀 I’m interested in PHP (Laravel), and Javascript (Vue, React)
 - 🌱 I’m currently learning Fullter
