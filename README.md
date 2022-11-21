@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamaluddinosman" target="blank"><img src="https://img.shields.io/twitter/follow/kamaluddinosman?logo=twitter&style=for-the-badge" alt="kamaluddinosman" /></a> </p>
 
-- 🔭 I’m currently working on [Aamalana](https://aamalna.com/)
+- 🔭 I’m currently working on [Aamalana](https://aamalna.com/), and three other private projects.
 
 - 🌱 I’m currently learning **Flutter**
 
