@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=KamaluddinOsman)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KamaluddinOsman)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaluddinOsman&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
