@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @KamaluddinOsman
 - 👀 I’m interested in PHP (Laravel), and Javascript (Vue, React)
-- 🌱 I’m currently learning Fullter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any Laravel projects
 - 📫 How to reach me kamaluddin.osman@gmail.com
 
